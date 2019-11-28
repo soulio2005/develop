@@ -1,0 +1,12 @@
+p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+body {
+    background-image: url("sky");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+   }
